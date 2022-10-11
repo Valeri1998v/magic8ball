@@ -43,5 +43,9 @@ when "/start", "/start start"
 	bot.api.send_message(chat_id: message.chat.id
 		text: "Hello, #{message.from.first_name}"
 		)
+else
+	bot.api.send_message(
+	chat_id: message.chat.id,
+	ANSWERS)
 	end
 end
