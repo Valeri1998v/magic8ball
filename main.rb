@@ -27,7 +27,7 @@ ANSWERS = [#Положительные:
     " Cannot predict now (Сейчас нельзя предсказать)"
     " Concentrate and ask again (Сконцентрируйся и спроси опять)"
 
-Отрицательные
+#Отрицательные:
 
     ● Don’t count on it (Даже не думай)
     ● My reply is no (Мой ответ — «нет»)
