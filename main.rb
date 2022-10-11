@@ -19,7 +19,7 @@ ANSWERS = [#Положительные:
     " Signs point to yes (Знаки говорят — «да»)"
     " Yes (Да)"
 
-Нейтральные
+#Нейтральные:
 
     ● Reply hazy, try again (Пока не ясно, попробуй снова)
     ● Ask again later (Спроси позже)
