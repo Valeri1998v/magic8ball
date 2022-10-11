@@ -24,7 +24,7 @@ ANSWERS = [#Положительные:
     " Reply hazy, try again (Пока не ясно, попробуй снова)"
     " Ask again later (Спроси позже)"
     " Better not tell you now (Лучше не рассказывать)"
-    ● Cannot predict now (Сейчас нельзя предсказать)
+    " Cannot predict now (Сейчас нельзя предсказать)"
     ● Concentrate and ask again (Сконцентрируйся и спроси опять)
 
 Отрицательные
