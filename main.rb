@@ -21,7 +21,7 @@ ANSWERS = [#Положительные:
 
 #Нейтральные:
 
-    ● Reply hazy, try again (Пока не ясно, попробуй снова)
+    " Reply hazy, try again (Пока не ясно, попробуй снова)"
     ● Ask again later (Спроси позже)
     ● Better not tell you now (Лучше не рассказывать)
     ● Cannot predict now (Сейчас нельзя предсказать)
