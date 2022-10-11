@@ -46,7 +46,7 @@ when "/start", "/start start"
 else
 	bot.api.send_message(
 	chat_id: message.chat.id,
-	ANSWERS.sample)
+	text: ANSWERS.sample)
 	end
     end
 end
