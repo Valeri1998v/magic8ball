@@ -16,7 +16,7 @@ ANSWERS = [#Положительные:
     " As I see it, yes (Мне кажется — «да»)",
     " Most likely (Вероятнее всего)",
     " Outlook good (Хорошие перспективы)",
-    " Signs point to yes (Знаки говорят — «да»)"
+    " Signs point to yes (Знаки говорят — «да»)",
     " Yes (Да)"
 
 #Нейтральные:
