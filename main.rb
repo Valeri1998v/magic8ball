@@ -3,7 +3,7 @@ require "telegram/bot"
 
 TOKEN = "5641299982:AAF6NP_ocBugJqe_RC7_jfXABmY0RHb5UVE"
 
-ANSWERS = [Положительные:
+ANSWERS = [#Положительные:
 
     ● It is certain (Бесспорно)
     ● It is decidedly so (Предрешено)
