@@ -7,7 +7,7 @@ ANSWERS = [#Положительные:
 
     " It is certain (Бесспорно)"
     " It is decidedly so (Предрешено)"
-    ● Without a doubt (Никаких сомнений)
+    " Without a doubt (Никаких сомнений)"
     ● Yes — definitely (Определённо да)
     ● You may rely on it (Можешь быть уверен в этом)
 
