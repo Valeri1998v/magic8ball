@@ -32,7 +32,7 @@ ANSWERS = [#Положительные:
     " Don’t count on it (Даже не думай)",
     " My reply is no (Мой ответ — «нет»)",
     " My sources say no (По моим данным — «нет»)",
-    " Outlook not so good (Перспективы не очень хорошие)"
+    " Outlook not so good (Перспективы не очень хорошие)",
     " Very doubtful (Весьма сомнительно)"
 ]
 
