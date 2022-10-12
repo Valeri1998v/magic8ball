@@ -3,9 +3,7 @@ require "telegram/bot"
 
 TOKEN = "5641299982:AAF6NP_ocBugJqe_RC7_jfXABmY0RHb5UVE"
 
-ANSWERS = [ 
- # Положительные
-  'Бесспорно',
+ANSWERS = [  'Бесспорно',
   'Предрешено',
   'Никаких сомнений',
   'Определённо да',
@@ -37,13 +35,13 @@ Telegram::Bot::Client.run(TOKEN) do |bot|
 bot.listen do |message|
 case message.text
 when "/start", "/start start"
-	bot.api.send_message(
-		chat_id: message.chat.id,
-		text: "Hello, #{message.from.first_name}")
+    bot.api.send_message(
+        chat_id: message.chat.id,
+        text: "Hi, #{message.from.first_name}")
 else
-	bot.api.send_message(
-	chat_id: message.chat.id,
-	text: ANSWERS.sample)
-	end
+    bot.api.send_message(
+    chat_id: message.chat.id,
+    text: ANSWERS.sample)
+    end
     end
 end
