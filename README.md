@@ -14,3 +14,5 @@ The answer options are divided into groups:
 * Magic in 8 Ball is a ball that looks like a billiard ball No. 8, but is larger — usually 10-11 cm in diameter, inside which there is a container with a dark liquid, for example, ink.
 * The most common way is holding the ball in his hands (with the window down), the user asks him a question, shakes it, turns it over and reads the answer that appears.
 * Traditionally, the ball has 20 answers, which can be divided into four groups.
+
+![Magicball](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQaWvZpjJv7cXWgPOesuNDs5s_-z4P-f6MDaycBJDC3Ec5-8Z2E)
